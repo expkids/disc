@@ -1,0 +1,98 @@
+台灣新聞,#genre#
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+倪珍24小時播新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u8
+三立新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+寰宇新聞台灣台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+
+台灣頻道,#genre#
+TaiwanPlus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+華視戲劇頻道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+華視綜藝頻道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+中視經典綜藝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+中天2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+民視戲劇館,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+寰宇新聞財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+運通財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+
+English Channels,#genre#
+LiveNOW from FOX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
+ABC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+DW News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+GB News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+Sky News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+Euronews English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+FRANCE 24 English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+NBC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+CNA LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+CRUX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+TIMES NOW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
+
+日本頻道,#genre#
+JapaNews24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+ABCテレビニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+Tokyo Walk,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+
+韓國頻道,#genre#
+Arirang TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+THE K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+KBS News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+SBS Running Man,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
