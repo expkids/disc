@@ -24,7 +24,7 @@ MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 運通財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 
-English Channels,#genre#
+英語頻道,#genre#
 LiveNOW from FOX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
 ABC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 DW News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
