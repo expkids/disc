@@ -21,6 +21,28 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-id="寰宇新聞台灣台.tw" group-title="台灣新聞",寰宇新聞台灣台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+#EXTINF:-1 tvg-name="LiveNow from FOX" group-title="英語頻道",LiveNow from FOX
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
+#EXTINF:-1 tvg-name="ABC News" group-title="英語頻道",ABC News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1 tvg-name="DW News" group-title="英語頻道",DW News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 tvg-name="GB News" group-title="英語頻道",GB News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+#EXTINF:-1 tvg-name="Sky News" group-title="英語頻道",Sky News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+#EXTINF:-1 tvg-name="Euronews English" group-title="英語頻道",Euronews English
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+#EXTINF:-1 tvg-name="FRANCE 24 English" group-title="英語頻道",FRANCE 24 English
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTINF:-1 tvg-name="NBC News" group-title="英語頻道",NBC News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 tvg-name="CNA LIVE" group-title="英語頻道",CNA LIVE
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1 tvg-name="CRUX" group-title="英語頻道",CRUX
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+#EXTINF:-1 tvg-name="TIMES NOW" group-title="英語頻道",TIMES NOW
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
 #EXTINF:-1 tvg-name="JapanNews24" tvg-id="JapanNews24.jp" group-title="日本頻道",JapanNews24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 #EXTINF:-1 tvg-name="ABCテレビニュース" tvg-id="ABCテレビニュース.jp" group-title="日本頻道",ABCテレビニュース
