@@ -21,6 +21,26 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-id="寰宇新聞台灣台.tw" group-title="台灣新聞",寰宇新聞台灣台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+#EXTINF:-1 tvg-id="TaiwanPlus" tvg-name="TaiwanPlus" group-title="台灣頻道",TaiwanPlus
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1 tvg-id="華視戲劇頻道" tvg-name="華視戲劇頻道" group-title="台灣頻道",華視戲劇頻道
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 tvg-id="華視綜藝頻道" tvg-name="華視綜藝頻道" group-title="台灣頻道",華視綜藝頻道
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 tvg-id="中視經典綜藝" tvg-name="中視經典綜藝" group-title="台灣頻道",中視經典綜藝
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+#EXTINF:-1 tvg-id="MIT台灣誌" tvg-name="MIT台灣誌" group-title="台灣頻道",MIT台灣誌
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+#EXTINF:-1 tvg-id="中天2台" tvg-name="中天2台" group-title="台灣頻道",中天2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+#EXTINF:-1 tvg-id="民視戲劇館" tvg-name="民視戲劇館" group-title="台灣頻道",民視戲劇館
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+#EXTINF:-1 tvg-id="寰宇新聞財經台" tvg-name="寰宇新聞財經台" group-title="台灣頻道",寰宇新聞財經台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+#EXTINF:-1 tvg-id="運通財經台" tvg-name="運通財經台" group-title="台灣頻道",運通財經台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+#EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" group-title="台灣頻道",東森財經新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-name="LiveNow from FOX" group-title="英語頻道",LiveNow from FOX
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
 #EXTINF:-1 tvg-name="ABC News" group-title="英語頻道",ABC News
