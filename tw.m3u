@@ -43,6 +43,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-name="LiveNow from FOX" group-title="英語頻道",LiveNow from FOX
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
+#EXTINF:-1 tvg-name="LiveNow from FOX" group-title="英語頻道",LiveNow from FOX
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC News" group-title="英語頻道",ABC News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 tvg-name="DW News" group-title="英語頻道",DW News
