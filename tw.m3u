@@ -42,11 +42,11 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 #EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" group-title="台灣頻道",東森財經新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-name="LiveNow from FOX" group-title="英語頻道",LiveNow from FOX
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8, https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC News" group-title="英語頻道",ABC News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 tvg-name="DW News" group-title="英語頻道",DW News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8; https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-name="GB News" group-title="英語頻道",GB News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 #EXTINF:-1 tvg-name="Sky News" group-title="英語頻道",Sky News
