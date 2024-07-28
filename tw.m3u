@@ -49,10 +49,14 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 tvg-name="DW News" group-title="英語頻道",DW News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 tvg-name="DW News" group-title="英語頻道",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-name="GB News" group-title="英語頻道",GB News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 #EXTINF:-1 tvg-name="Sky News" group-title="英語頻道",Sky News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+#EXTINF:-1 tvg-name="Sky News" group-title="英語頻道",Sky News
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-name="Euronews English" group-title="英語頻道",Euronews English
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
 #EXTINF:-1 tvg-name="FRANCE 24 English" group-title="英語頻道",FRANCE 24 English
@@ -61,10 +65,26 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1 tvg-name="CNA LIVE" group-title="英語頻道",CNA LIVE
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1 tvg-name="CBS NEWS" group-title="英語頻道",CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-name="CNN International" group-title="英語頻道",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN International" group-title="英語頻道",CNN International
+https://epg.pw/stream/e5667906c5c0fc0d1a7327e49a649f1e28cfd74bfb9a96c0844156fbec16ab64.m3u8
+#EXTINF:-1 tvg-name="RT NEWS" group-title="英語頻道",RT NEWS
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-name="CityNews Toronto" group-title="英語頻道",CityNews Toronto
+https://epg.pw/stream/972bc559a0c83c3de2c56422c15850fc6ef7d555d6b92960db864bef9776769a.m3u8
+#EXTINF:-1 tvg-name="cbn news" group-title="英語頻道",cbn news
+https://epg.pw/stream/51c02d90fc162cf09431c3837aa79c96bdd5eced9a6b75806f662df3f55969eb.m3u8
+#EXTINF:-1 tvg-name="Global News" group-title="英語頻道",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-name="CRUX" group-title="英語頻道",CRUX
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
 #EXTINF:-1 tvg-name="TIMES NOW" group-title="英語頻道",TIMES NOW
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
+#EXTINF:-1 tvg-name="animal planet HD" group-title="英語頻道",animal planet HD
+https://epg.pw/stream/929a4983a35f8e42a02e18174e9cc0ec185047d18f7bd574fb808d3a472bf412.m3u8
 #EXTINF:-1 tvg-name="JapanNews24" tvg-id="JapanNews24.jp" group-title="日本頻道",JapanNews24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 #EXTINF:-1 tvg-name="ABCテレビニュース" tvg-id="ABCテレビニュース.jp" group-title="日本頻道",ABCテレビニュース
