@@ -5,14 +5,24 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 tvg-name="民視新聞台" tvg-id="FTVNews.tw" group-title="台灣新聞",民視新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 tvg-name="民視新聞台" tvg-id="FTVNews.tw" group-title="台灣新聞",民視新聞台
+http://fm1077.serv00.net/Smart.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-name="台視新聞台" tvg-id="TTVNews.tw" group-title="台灣新聞",台視新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 tvg-name="台視新聞台" tvg-id="TTVNews.tw" group-title="台灣新聞",台視新聞台
+http://fm1077.serv00.net/Smart.php?id=ttvnews_twn
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台.tw" group-title="台灣新聞",寰宇新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台.tw" group-title="台灣新聞",寰宇新聞台
+http://fm1077.serv00.net/Smart.php?id=huanyuxinwen_twn
 #EXTINF:-1 tvg-name="TVBS NEWS" tvg-id="TVBSNEWS.tw" group-title="台灣新聞",TVBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+#EXTINF:-1 tvg-name="TVBS NEWS" tvg-id="TVBSNEWS.tw" group-title="台灣新聞",TVBS NEWS
+http://fm1077.serv00.net/Smart.php?id=tvbs_n
 #EXTINF:-1 tvg-name="中天新聞" tvg-id="中天新聞.tw" group-title="台灣新聞",中天新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-name="中天新聞" tvg-id="中天新聞.tw" group-title="台灣新聞",中天新聞
+http://fm1077.serv00.net/Smart.php?id=ctinews
 #EXTINF:-1 tvg-name="鏡新聞" tvg-id="鏡新聞.tw" group-title="台灣新聞",鏡新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 tvg-name="倪珍24小時播新聞" tvg-id="倪珍24小時播新聞.tw" group-title="台灣新聞",倪珍24小時播新聞
