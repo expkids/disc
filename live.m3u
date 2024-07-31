@@ -22,7 +22,7 @@ https://epg.pw/stream/00c14f2d9028476600ce529e01307b3850eacdf925d087e697a7233c75
 #EXTINF:-1 tvg-name="中天新聞" tvg-id="中天新聞.tw" group-title="台灣新聞",中天新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-name="中天新聞" tvg-id="中天新聞.tw" group-title="台灣新聞",中天新聞
-http://fm1077.serv00.net/Smart.php?id=ctinews
+http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-name="鏡新聞" tvg-id="鏡新聞.tw" group-title="台灣新聞",鏡新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 tvg-name="倪珍24小時播新聞" tvg-id="倪珍24小時播新聞.tw" group-title="台灣新聞",倪珍24小時播新聞
