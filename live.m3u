@@ -7,10 +7,14 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 tvg-name="民視新聞台" tvg-id="FTVNews.tw" group-title="台灣新聞",民視新聞台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-name="民視新聞台" tvg-id="FTVNews.tw" group-title="台灣新聞",民視新聞台
+https://stream1.freetv.fun/327c04d14d84294b71f2f6d67abb2565bc8313d24eb4190dfa2c5e6e5ab1428f.m3u8
 #EXTINF:-1 tvg-name="台視新聞台" tvg-id="TTVNews.tw" group-title="台灣新聞",台視新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 tvg-name="台視新聞台" tvg-id="TTVNews.tw" group-title="台灣新聞",台視新聞台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-name="台視新聞台" tvg-id="TTVNews.tw" group-title="台灣新聞",台視新聞台
+https://stream1.freetv.fun/d4774ec8a87985b129d45af1ff8f45ad7c554acd0d1cb9ce6cbf122255b2140a.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台.tw" group-title="台灣新聞",寰宇新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台.tw" group-title="台灣新聞",寰宇新聞台
