@@ -1,12 +1,22 @@
 #EXTM3U x-tvg-url="https://github.com/ChiSheng9/iptv"
+#EXTINF:-1 tvg-name="华视新闻" tvg-id="华视新闻.tw" group-title="台灣新聞",华视新闻
+http://95.179.139.113:5566/4gtv/256
+#EXTINF:-1 tvg-name="东森新闻台" tvg-id="东森新闻台.tw" group-title="台灣新聞",东森新闻台
+http://95.179.139.113:5566/4gtv/292
 #EXTINF:-1 tvg-name="中視新聞台" tvg-id="CTVNewsChannel.tw" group-title="台灣新聞",中視新聞台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+http://95.179.139.113:5566/4gtv/33
+#EXTINF:-1 tvg-name="中視新聞台" tvg-id="CTVNewsChannel.tw" group-title="台灣新聞",中視新聞台
+http://95.179.139.113:5566/4gtv/258
 #EXTINF:-1 tvg-name="三立iNEWS" tvg-id="三立iNEWS.tw" group-title="台灣新聞",三立iNEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+http://95.179.139.113:5566/4gtv/229
 #EXTINF:-1 tvg-name="民視新聞台" tvg-id="FTVNews.tw" group-title="台灣新聞",民視新聞台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-name="民視新聞台" tvg-id="FTVNews.tw" group-title="台灣新聞",民視新聞台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 tvg-name="民視新聞台" tvg-id="FTVNews.tw" group-title="台灣新聞",民視新聞台
+http://95.179.139.113:5566/4gtv/31
+#EXTINF:-1 tvg-name="民視新聞台" tvg-id="FTVNews.tw" group-title="台灣新聞",民視新聞台
+http://95.179.139.113:5566/4gtv/257
 #EXTINF:-1 tvg-name="民視新聞台" tvg-id="FTVNews.tw" group-title="台灣新聞",民視新聞台
 https://stream1.freetv.fun/327c04d14d84294b71f2f6d67abb2565bc8313d24eb4190dfa2c5e6e5ab1428f.m3u8
 #EXTINF:-1 tvg-name="台視新聞台" tvg-id="TTVNews.tw" group-title="台灣新聞",台視新聞台
@@ -22,23 +32,31 @@ https://stream1.freetv.fun/d4774ec8a87985b129d45af1ff8f45ad7c554acd0d1cb9ce6cbf1
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台.tw" group-title="台灣新聞",寰宇新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台.tw" group-title="台灣新聞",寰宇新聞台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+http://95.179.139.113:5566/4gtv/36
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台.tw" group-title="台灣新聞",寰宇新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台.tw" group-title="台灣新聞",寰宇新聞台
 http://fm1077.serv00.net/Smart.php?id=huanyuxinwen_twn
+#EXTINF:-1 tvg-name="TVBS新聞台" tvg-id="TVBS新聞台.tw" group-title="台灣新聞",TVBS新聞台
+http://209.146.124.22:8891/litv/4gtv-4gtv072
+#EXTINF:-1 tvg-name="TVBS新聞台" tvg-id="TVBS新聞台.tw" group-title="台灣新聞",TVBS新聞台
+http://125.227.210.55:8186/VideoInput/play.ts
+#EXTINF:-1 tvg-name="TVBS新聞台" tvg-id="TVBS新聞台.tw" group-title="台灣新聞",TVBS新聞台
+http://95.179.139.113:5566/4gtv/291
 #EXTINF:-1 tvg-name="TVBS NEWS" tvg-id="TVBSNEWS.tw" group-title="台灣新聞",TVBS NEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="TVBS NEWS" tvg-id="TVBSNEWS.tw" group-title="台灣新聞",TVBS NEWS
 https://epg.pw/stream/00c14f2d9028476600ce529e01307b3850eacdf925d087e697a7233c759200dd.ctv
 #EXTINF:-1 tvg-name="TVBS NEWS" tvg-id="TVBSNEWS.tw" group-title="台灣新聞",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="中天新聞" tvg-id="中天新聞.tw" group-title="台灣新聞",中天新聞
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+http://95.179.139.113:5566/4gtv/260
 #EXTINF:-1 tvg-name="中天新聞" tvg-id="中天新聞.tw" group-title="台灣新聞",中天新聞
 http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
+#EXTINF:-1 tvg-name="中天新聞" tvg-id="中天新聞.tw" group-title="台灣新聞",中天新聞
+http://95.179.139.113:5566/4gtv/30
 #EXTINF:-1 tvg-name="鏡新聞" tvg-id="鏡新聞.tw" group-title="台灣新聞",鏡新聞
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+http://95.179.139.113:5566/4gtv/268
 #EXTINF:-1 tvg-name="非凡新聞" tvg-id="非凡新聞.tw" group-title="台灣新聞",非凡新聞
 rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 tvg-name="倪珍24小時播新聞" tvg-id="倪珍24小時播新聞.tw" group-title="台灣新聞",倪珍24小時播新聞
