@@ -35,8 +35,6 @@ https://stream1.freetv.fun/d4774ec8a87985b129d45af1ff8f45ad7c554acd0d1cb9ce6cbf1
 http://209.146.124.22:8891/litv/litv-longturn14
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台.tw" group-title="台灣新聞",寰宇新聞台
 http://95.179.139.113:5566/4gtv/36
-#EXTINF:-1 tvg-name="寰宇新聞台" tvg-id="寰宇新聞台.tw" group-title="台灣新聞",寰宇新聞台
-http://fm1077.serv00.net/Smart.php?id=huanyuxinwen_twn
 #EXTINF:-1 tvg-name="TVBS新聞台" tvg-id="TVBS新聞台.tw" group-title="台灣新聞",TVBS新聞台
 http://209.146.124.22:8891/litv/4gtv-4gtv072
 #EXTINF:-1 tvg-name="TVBS新聞台" tvg-id="TVBS新聞台.tw" group-title="台灣新聞",TVBS新聞台
