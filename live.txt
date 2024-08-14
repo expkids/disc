@@ -17,7 +17,6 @@
 台視新聞台,https://stream1.freetv.fun/d4774ec8a87985b129d45af1ff8f45ad7c554acd0d1cb9ce6cbf122255b2140a.m3u8
 寰宇新聞台,http://209.146.124.22:8891/litv/litv-longturn14
 寰宇新聞台,http://95.179.139.113:5566/4gtv/36
-寰宇新聞台,http://fm1077.serv00.net/Smart.php?id=huanyuxinwen_twn
 TVBS新聞台,http://209.146.124.22:8891/litv/4gtv-4gtv072
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 TVBS新聞台,http://95.179.139.113:5566/4gtv/291
