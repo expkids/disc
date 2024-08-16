@@ -153,3 +153,9 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 #EXTINF:-1 tvg-name="SBS Running Man" tvg-id="SBS Running Man.kr" group-title="韓國頻道",SBS Running Man
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
+#EXTINF:-1 tvg-name="Now Sports 4K 1" tvg-id="Now Sports 4K 1.hk" group-title="4K頻道",Now Sports 4K 1
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
+#EXTINF:-1 tvg-name="Now Sports 4K 2" tvg-id="Now Sports 4K 2.hk" group-title="4K頻道",Now Sports 4K 2
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86268
+#EXTINF:-1 tvg-name="Now Sports 4K 3" tvg-id="Now Sports 4K 3.hk" group-title="4K頻道",Now Sports 4K 3
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86269
