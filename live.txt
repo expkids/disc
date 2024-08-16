@@ -79,3 +79,8 @@ Arirang TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
 THE K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 KBS News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 SBS Running Man,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
+
+4K頻道,#genre#
+Now HK Sports 4K 1 ⁴ᵏ,http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
+Now HK Sports 4K 2 ⁴ᵏ,http://apptv.xyz:80/alia4remz/rrynDeBGS/86268
+Now HK Sports 4K 3 ⁴ᵏ,http://apptv.xyz:80/alia4remz/rrynDeBGS/86269
