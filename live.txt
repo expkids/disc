@@ -82,5 +82,3 @@ SBS Running Man,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u
 
 4K頻道,#genre#
 Now HK Sports 4K 1 ⁴ᵏ,http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
-Now HK Sports 4K 2 ⁴ᵏ,http://apptv.xyz:80/alia4remz/rrynDeBGS/86268
-Now HK Sports 4K 3 ⁴ᵏ,http://apptv.xyz:80/alia4remz/rrynDeBGS/86269
