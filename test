@@ -47,20 +47,11 @@
 {"key":"t9-荐片","name":"SW荐片","type":4,"api":"https://catbox.n13.club/t9/jianpian.php"},
 {"key":"苹果","name":"SW苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"低端","name":"SW低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-{"key": "360","name": "SW飞龙","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": [
- "国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","动作片","战争片","恐怖片",    "喜剧片","爱情片","科幻片","剧情片","古装片","悬疑片","犯罪片","灾难片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},   
-{"key": "百度","name": "SW-百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 0},
 {"key":"SW-欧帝影院","name":"SWTV華 欧帝影院","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E6%AC%A7%E5%B8%9D%E5%BD%B1%E9%99%A2.js"},
-{"key":"drpy_js_多瑙","name":" SWTV 華哥 多瑙[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%A4%9A%E7%91%99%E5%BD%B1%E8%A7%86.js","playerType":"2"},
 {"key":"drpy_js_豆瓣","name":"豆瓣 華 热播[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
 {"key":"drpy_js_荐片","name":"華哥-视聼[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
 {"key":"独 播 库","name":"SWTV華哥- 独播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%8B%AC%E6%92%AD%E5%BA%93%5B%E9%A3%9E%5D.js"},
-{"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
-{"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
-{"key":"drpy_js_我的哔哩","name":"B站 華哥[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我的哔哩.js"},
-{"key":"drpy_js_在线之家","name":"在线之家[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/在线之家.js"},
 {"key":"drpy_js_哔哩","name":"哔哩[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%93%94%E5%93%A9%E5%BD%B1%E8%A7%86.js"},
-{"key":"drpy_js_哔哩影视","name":"影视 | 哔哩影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"},
 {"key":"drpy_js_小白菜儿","name":"影视 | 小白菜儿[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小白菜电影.js"},
 {"key":"drpy_js_139","name":"139[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/139%E5%BD%B1%E8%A7%86.js"},
 {"key":"drpy_js_楚门影院","name":"楚门影院[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"},
@@ -77,6 +68,7 @@
  "国产动漫","日韩动漫","欧美动漫","港台动漫",	"海外动漫","大陆综艺",	"港台综艺","日韩综艺","欧美综艺" ]},       
 {"key": "csp_SNzy","name": "🐉┃索尼┃3 k高清","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [
  "动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","美综艺" ]}],
+ 
     "parses": [
         {
             "name": "Json轮询",
