@@ -1,18 +1,24 @@
 台灣新聞,#genre#
+华视新闻,http://95.179.139.113:5566/4gtv/34
 华视新闻,http://95.179.139.113:5566/4gtv/256
+華視新聞,http://209.146.124.22:8891/litv/4gtv-4gtv052
 东森新闻台,http://95.179.139.113:5566/4gtv/292
+東森新聞,http://209.146.124.22:8891/litv/4gtv-4gtv152
 中視新聞台,http://95.179.139.113:5566/4gtv/33
 中視新聞台,http://95.179.139.113:5566/4gtv/258
+中視新聞台,http://209.146.124.22:8891/litv/4gtv-4gtv074
 三立iNEWS,http://95.179.139.113:5566/4gtv/229
 三立iNEWS,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
 民視新聞台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞台,http://95.179.139.113:5566/4gtv/31
 民視新聞台,http://95.179.139.113:5566/4gtv/257
+民視新聞台,http://209.146.124.22:8891/litv/litv-ftv13
 民視新聞台,https://stream1.freetv.fun/327c04d14d84294b71f2f6d67abb2565bc8313d24eb4190dfa2c5e6e5ab1428f.m3u8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台視新聞台,http://209.146.124.22:8891/litv/4gtv-4gtv051
 台視新聞台,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台視新聞台,https://stream1.freetv.fun/d4774ec8a87985b129d45af1ff8f45ad7c554acd0d1cb9ce6cbf122255b2140a.m3u8
 寰宇新聞台,http://209.146.124.22:8891/litv/litv-longturn14
@@ -24,9 +30,12 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 中天新聞,http://95.179.139.113:5566/4gtv/260
 中天新聞,http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
+中天新聞,http://209.146.124.22:8891/litv/4gtv-4gtv009
 中天新聞,http://95.179.139.113:5566/4gtv/30
 鏡新聞,http://95.179.139.113:5566/4gtv/268
+鏡新聞,http://209.146.124.22:8891/litv/4gtv-4gtv075
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+非凡新聞,http://209.146.124.22:8891/litv/4gtv-4gtv010
 
 台灣頻道,#genre#
 TaiwanPlus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
@@ -47,6 +56,8 @@ LiveNOW from FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOX News,http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 BBC News,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBC News,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+BBC News,http://fm1077.serv00.net/Smart.php?id=Bbcnews
+BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 ABC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 DW News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -61,6 +72,7 @@ NBC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 CNA LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 CBN news,https://epg.pw/stream/51c02d90fc162cf09431c3837aa79c96bdd5eced9a6b75806f662df3f55969eb.m3u8
 CBN news,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+CNN International,http://125.227.210.55:8166/VideoInput/play.ts
 CNN International,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 CNN International,https://epg.pw/stream/e5667906c5c0fc0d1a7327e49a649f1e28cfd74bfb9a96c0844156fbec16ab64.m3u8
 CRUX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
