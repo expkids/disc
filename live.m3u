@@ -92,7 +92,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC News" group-title="英語頻道",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-name="BBC News" group-title="英語頻道",BBC News
-http://fm1077.serv00.net/Smart.php?id=Bbcnews
+http://125.227.210.55:8165/VideoInput/play.ts
 #EXTINF:-1 tvg-name="DW News" group-title="英語頻道",DW News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 #EXTINF:-1 tvg-name="DW News" group-title="英語頻道",DW News
