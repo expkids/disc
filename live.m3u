@@ -1,169 +1,169 @@
 #EXTM3U
-#EXTINF:-1 group-title="台灣新聞,#genre#",華視新聞
+#EXTINF:-1 group-title="台灣新聞",華視新聞
 http://95.179.139.113:5566/4gtv/34
-#EXTINF:-1 group-title="台灣新聞,#genre#",華視新聞
+#EXTINF:-1 group-title="台灣新聞",華視新聞
 http://95.179.139.113:5566/4gtv/256
-#EXTINF:-1 group-title="台灣新聞,#genre#",華視新聞
+#EXTINF:-1 group-title="台灣新聞",華視新聞
 http://209.146.124.22:8891/litv/4gtv-4gtv052
-#EXTINF:-1 group-title="台灣新聞,#genre#",東森新聞台
+#EXTINF:-1 group-title="台灣新聞",東森新聞台
 http://95.179.139.113:5566/4gtv/292
-#EXTINF:-1 group-title="台灣新聞,#genre#",東森新聞
+#EXTINF:-1 group-title="台灣新聞",東森新聞
 http://209.146.124.22:8891/litv/4gtv-4gtv152
-#EXTINF:-1 group-title="台灣新聞,#genre#",中視新聞台
+#EXTINF:-1 group-title="台灣新聞",中視新聞台
 http://95.179.139.113:5566/4gtv/33
-#EXTINF:-1 group-title="台灣新聞,#genre#",中視新聞台
+#EXTINF:-1 group-title="台灣新聞",中視新聞台
 http://95.179.139.113:5566/4gtv/258
-#EXTINF:-1 group-title="台灣新聞,#genre#",中視新聞台
+#EXTINF:-1 group-title="台灣新聞",中視新聞台
 http://209.146.124.22:8891/litv/4gtv-4gtv074
-#EXTINF:-1 group-title="台灣新聞,#genre#",三立iNEWS
+#EXTINF:-1 group-title="台灣新聞",三立iNEWS
 http://95.179.139.113:5566/4gtv/229
-#EXTINF:-1 group-title="台灣新聞,#genre#",三立iNEWS
+#EXTINF:-1 group-title="台灣新聞",三立iNEWS
 https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
-#EXTINF:-1 group-title="台灣新聞,#genre#",民視新聞台
+#EXTINF:-1 group-title="台灣新聞",民視新聞台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="台灣新聞,#genre#",民視新聞台
+#EXTINF:-1 group-title="台灣新聞",民視新聞台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="台灣新聞,#genre#",民視新聞台
+#EXTINF:-1 group-title="台灣新聞",民視新聞台
 http://95.179.139.113:5566/4gtv/31
-#EXTINF:-1 group-title="台灣新聞,#genre#",民視新聞台
+#EXTINF:-1 group-title="台灣新聞",民視新聞台
 http://95.179.139.113:5566/4gtv/257
-#EXTINF:-1 group-title="台灣新聞,#genre#",民視新聞台
+#EXTINF:-1 group-title="台灣新聞",民視新聞台
 http://209.146.124.22:8891/litv/litv-ftv13
-#EXTINF:-1 group-title="台灣新聞,#genre#",民視新聞台
+#EXTINF:-1 group-title="台灣新聞",民視新聞台
 https://stream1.freetv.fun/327c04d14d84294b71f2f6d67abb2565bc8313d24eb4190dfa2c5e6e5ab1428f.m3u8
-#EXTINF:-1 group-title="台灣新聞,#genre#",台視新聞台
+#EXTINF:-1 group-title="台灣新聞",台視新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 group-title="台灣新聞,#genre#",台視新聞台
+#EXTINF:-1 group-title="台灣新聞",台視新聞台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="台灣新聞,#genre#",台視新聞台
+#EXTINF:-1 group-title="台灣新聞",台視新聞台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="台灣新聞,#genre#",台視新聞台
+#EXTINF:-1 group-title="台灣新聞",台視新聞台
 http://209.146.124.22:8891/litv/4gtv-4gtv051
-#EXTINF:-1 group-title="台灣新聞,#genre#",台視新聞台
+#EXTINF:-1 group-title="台灣新聞",台視新聞台
 https://live.wcetv.com/hls/master-ttvnews.m3u8
-#EXTINF:-1 group-title="台灣新聞,#genre#",台視新聞台
+#EXTINF:-1 group-title="台灣新聞",台視新聞台
 https://stream1.freetv.fun/d4774ec8a87985b129d45af1ff8f45ad7c554acd0d1cb9ce6cbf122255b2140a.m3u8
-#EXTINF:-1 group-title="台灣新聞,#genre#",寰宇新聞台
+#EXTINF:-1 group-title="台灣新聞",寰宇新聞台
 http://209.146.124.22:8891/litv/litv-longturn14
-#EXTINF:-1 group-title="台灣新聞,#genre#",寰宇新聞台
+#EXTINF:-1 group-title="台灣新聞",寰宇新聞台
 http://95.179.139.113:5566/4gtv/36
-#EXTINF:-1 group-title="台灣新聞,#genre#",TVBS新聞台
+#EXTINF:-1 group-title="台灣新聞",TVBS新聞台
 http://209.146.124.22:8891/litv/4gtv-4gtv072
-#EXTINF:-1 group-title="台灣新聞,#genre#",TVBS新聞台
+#EXTINF:-1 group-title="台灣新聞",TVBS新聞台
 http://125.227.210.55:8186/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣新聞,#genre#",TVBS新聞台
+#EXTINF:-1 group-title="台灣新聞",TVBS新聞台
 http://95.179.139.113:5566/4gtv/291
-#EXTINF:-1 group-title="台灣新聞,#genre#",TVBS NEWS
+#EXTINF:-1 group-title="台灣新聞",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 group-title="台灣新聞,#genre#",TVBS NEWS
+#EXTINF:-1 group-title="台灣新聞",TVBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
-#EXTINF:-1 group-title="台灣新聞,#genre#",中天新聞
+#EXTINF:-1 group-title="台灣新聞",中天新聞
 http://95.179.139.113:5566/4gtv/260
-#EXTINF:-1 group-title="台灣新聞,#genre#",中天新聞
+#EXTINF:-1 group-title="台灣新聞",中天新聞
 http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
-#EXTINF:-1 group-title="台灣新聞,#genre#",中天新聞
+#EXTINF:-1 group-title="台灣新聞",中天新聞
 http://209.146.124.22:8891/litv/4gtv-4gtv009
-#EXTINF:-1 group-title="台灣新聞,#genre#",中天新聞
+#EXTINF:-1 group-title="台灣新聞",中天新聞
 http://95.179.139.113:5566/4gtv/30
-#EXTINF:-1 group-title="台灣新聞,#genre#",鏡新聞
+#EXTINF:-1 group-title="台灣新聞",鏡新聞
 http://95.179.139.113:5566/4gtv/268
-#EXTINF:-1 group-title="台灣新聞,#genre#",鏡新聞
+#EXTINF:-1 group-title="台灣新聞",鏡新聞
 http://209.146.124.22:8891/litv/4gtv-4gtv075
-#EXTINF:-1 group-title="台灣新聞,#genre#",非凡新聞
+#EXTINF:-1 group-title="台灣新聞",非凡新聞
 rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1 group-title="台灣新聞,#genre#",非凡新聞
+#EXTINF:-1 group-title="台灣新聞",非凡新聞
 http://209.146.124.22:8891/litv/4gtv-4gtv010
-#EXTINF:-1 group-title="台灣頻道,#genre#",TaiwanPlus
+#EXTINF:-1 group-title="台灣頻道",TaiwanPlus
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 group-title="台灣頻道,#genre#",TaiwanPlus
+#EXTINF:-1 group-title="台灣頻道",TaiwanPlus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="台灣頻道,#genre#",華視戲劇頻道
+#EXTINF:-1 group-title="台灣頻道",華視戲劇頻道
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 group-title="台灣頻道,#genre#",華視綜藝頻道
+#EXTINF:-1 group-title="台灣頻道",華視綜藝頻道
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 group-title="台灣頻道,#genre#",中視經典綜藝
+#EXTINF:-1 group-title="台灣頻道",中視經典綜藝
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 group-title="台灣頻道,#genre#",MIT台灣誌
+#EXTINF:-1 group-title="台灣頻道",MIT台灣誌
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-#EXTINF:-1 group-title="台灣頻道,#genre#",中天2台
+#EXTINF:-1 group-title="台灣頻道",中天2台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-#EXTINF:-1 group-title="台灣頻道,#genre#",民視戲劇館
+#EXTINF:-1 group-title="台灣頻道",民視戲劇館
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-#EXTINF:-1 group-title="台灣頻道,#genre#",寰宇新聞財經台
+#EXTINF:-1 group-title="台灣頻道",寰宇新聞財經台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
-#EXTINF:-1 group-title="台灣頻道,#genre#",運通財經台
+#EXTINF:-1 group-title="台灣頻道",運通財經台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-#EXTINF:-1 group-title="台灣頻道,#genre#",東森財經新聞
+#EXTINF:-1 group-title="台灣頻道",東森財經新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",LiveNOW from FOX
+#EXTINF:-1 group-title="英語頻道",LiveNOW from FOX
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",LiveNOW from FOX
+#EXTINF:-1 group-title="英語頻道",LiveNOW from FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",FOX News
+#EXTINF:-1 group-title="英語頻道",FOX News
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",BBC News
+#EXTINF:-1 group-title="英語頻道",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",BBC News
+#EXTINF:-1 group-title="英語頻道",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",BBC News
+#EXTINF:-1 group-title="英語頻道",BBC News
 http://fm1077.serv00.net/Smart.php?id=Bbcnews
-#EXTINF:-1 group-title="英語頻道,#genre#",BBC News
+#EXTINF:-1 group-title="英語頻道",BBC News
 http://125.227.210.55:8165/VideoInput/play.ts
-#EXTINF:-1 group-title="英語頻道,#genre#",ABC News
+#EXTINF:-1 group-title="英語頻道",ABC News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",DW News
+#EXTINF:-1 group-title="英語頻道",DW News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",DW News
+#EXTINF:-1 group-title="英語頻道",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",GB News
+#EXTINF:-1 group-title="英語頻道",GB News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",GB News
+#EXTINF:-1 group-title="英語頻道",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",Sky News
+#EXTINF:-1 group-title="英語頻道",Sky News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",Euronews English
+#EXTINF:-1 group-title="英語頻道",Euronews English
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",Euronews English
+#EXTINF:-1 group-title="英語頻道",Euronews English
 https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",Euronews English
+#EXTINF:-1 group-title="英語頻道",Euronews English
 https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",FRANCE 24 English
+#EXTINF:-1 group-title="英語頻道",FRANCE 24 English
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",NBC News
+#EXTINF:-1 group-title="英語頻道",NBC News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",CNA LIVE
+#EXTINF:-1 group-title="英語頻道",CNA LIVE
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",CBN news
+#EXTINF:-1 group-title="英語頻道",CBN news
 https://epg.pw/stream/51c02d90fc162cf09431c3837aa79c96bdd5eced9a6b75806f662df3f55969eb.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",CBN news
+#EXTINF:-1 group-title="英語頻道",CBN news
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",CNN International
+#EXTINF:-1 group-title="英語頻道",CNN International
 http://125.227.210.55:8166/VideoInput/play.ts
-#EXTINF:-1 group-title="英語頻道,#genre#",CNN International
+#EXTINF:-1 group-title="英語頻道",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",CNN International
+#EXTINF:-1 group-title="英語頻道",CNN International
 https://epg.pw/stream/e5667906c5c0fc0d1a7327e49a649f1e28cfd74bfb9a96c0844156fbec16ab64.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",CRUX
+#EXTINF:-1 group-title="英語頻道",CRUX
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
-#EXTINF:-1 group-title="英語頻道,#genre#",TIMES NOW
+#EXTINF:-1 group-title="英語頻道",TIMES NOW
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
-#EXTINF:-1 group-title="日本頻道,#genre#",JapaNews24
+#EXTINF:-1 group-title="日本頻道",JapaNews24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-#EXTINF:-1 group-title="日本頻道,#genre#",ABCテレビニュース
+#EXTINF:-1 group-title="日本頻道",ABCテレビニュース
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-#EXTINF:-1 group-title="日本頻道,#genre#",Tokyo Walk
+#EXTINF:-1 group-title="日本頻道",Tokyo Walk
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-#EXTINF:-1 group-title="日本頻道,#genre#",TBS NEWS
+#EXTINF:-1 group-title="日本頻道",TBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-#EXTINF:-1 group-title="日本頻道,#genre#",HTB北海道ニュース
+#EXTINF:-1 group-title="日本頻道",HTB北海道ニュース
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
-#EXTINF:-1 group-title="韓國頻道,#genre#",Arirang TV
+#EXTINF:-1 group-title="韓國頻道",Arirang TV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
-#EXTINF:-1 group-title="韓國頻道,#genre#",THE K-POP
+#EXTINF:-1 group-title="韓國頻道",THE K-POP
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 group-title="韓國頻道,#genre#",KBS News
+#EXTINF:-1 group-title="韓國頻道",KBS News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
-#EXTINF:-1 group-title="韓國頻道,#genre#",SBS Running Man
+#EXTINF:-1 group-title="韓國頻道",SBS Running Man
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
-#EXTINF:-1 group-title="4K頻道,#genre#",Now HK Sports 4K 1 ⁴ᵏ
+#EXTINF:-1 group-title="4K頻道",Now HK Sports 4K 1 ⁴ᵏ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
