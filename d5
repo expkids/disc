@@ -7,7 +7,7 @@
     {
       "name": "me_2024",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/BryanHK/me/main/live.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/BryanHK/disc/main/live.txt",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
