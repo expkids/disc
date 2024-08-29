@@ -1,23 +1,24 @@
 {
-//Update:2024-08-29 14:15:52.722763
-
-//"spider":"https://github.com/BryanHK/smile/raw/main/Yoursmile.jar",
-
-{
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
     "spider": "./custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
     "lives": [
-        
-         {
-      "name": "me_2024",
-      "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/BryanHK/disc/main/live.txt",
-      "playerType": 2,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-   }
-  ],
+        {
+          "name": "本地live文件",
+          "type":"0",
+          "pass": true,
+          "url":"http://127.0.0.1:9978/file/XYQTVBox/live.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+          "name": "FMM_IPV6",
+          "type":"0",
+          "pass": true,
+          "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
     "sites": [
         {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
         {"key":"drpy_js_豆瓣","name":"豆瓣[js]","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/drpy.js"},
