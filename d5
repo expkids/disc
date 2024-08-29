@@ -3,9 +3,17 @@
 
 "spider":"https://github.com/BryanHK/smile/raw/main/Yoursmile.jar",
 
-"lives": [
-{"name": "me_2024","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/BryanHK/me/main/live.txt","playerType":2,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
-
+    "lives": [
+    {
+      "name": "me_2024",
+      "type": 0,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/BryanHK/me/main/live.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+   }
+  ],
 "sites":[
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
