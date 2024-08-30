@@ -1,19 +1,9 @@
 {
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
-    "lives": [
-        {
-            "name": "tvlive",
-            "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
-            "playerType": 2
-        },
-        {
-            "name": "嗅探",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-            "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/xiutan.m3u"
-        }
-    ],
+"lives": [
+{"name": "me_2024","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/BryanHK/disc/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+
+"warningText": "請不要相信視頻中的广告.多謝大家.",
     "sites": [
         {
             "key": "豆瓣",
