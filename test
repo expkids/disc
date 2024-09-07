@@ -183,8 +183,8 @@
 			"key": "haiwaikan",
 			"name": "海外看",
 			"type": 1,
-			"api": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/haiwaikan.compg/api.phppg/providepg/vod?",
-			"playUrl": "json:http:pg/pg/127.0.0.1:10079pg/parsepg/?thread=0&proxy=proxy&url=",
+			"api": "http://127.0.0.1:10079/p/0/proxy/https://haiwaikan.compg/api.phppg/providepg/vod?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
 			"searchable": 1,
 			"changeable": 1,
 			"categories": [
@@ -226,8 +226,8 @@
 			"key": "ikun",
 			"name": "ikun",
 			"type": 1,
-			"api": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/ikunzyapi.compg/api.phppg/providepg/vodpg/?",
-			"playUrl": "json:http:pg/pg/127.0.0.1:10079pg/parsepg/?thread=0&proxy=proxy&url=",
+			"api": "http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.phppg/provide/vod/?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
 			"playerType":1,
 			"searchable": 1,
 			"changeable": 1
@@ -236,8 +236,8 @@
 			"key": "飞速资源",
 			"name": "飞速资源",
 			"type": 1,
-			"api": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/http:pg/pg/fszy1.compg/api.phppg/providepg/vodpg/?",
-			"playUrl": "json:http:pg/pg/127.0.0.1:10079pg/parsepg/?thread=0&proxy=proxy&url=",
+			"api": "http://127.0.0.1:10079/p/0/proxy/http://fszy1.compg/api.phppg/provide/vod/?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
 			"playerType":1,
 			"searchable": 1,
 			"changeable": 1
@@ -246,8 +246,8 @@
 			"key": "暴風",
 			"name": "暴風",
 			"type": 1,
-			"api": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/bfzyapi.compg/api.phppg/providepg/vod?",
-			"playUrl": "json:http:pg/pg/127.0.0.1:10079pg/parsepg/?thread=0&proxy=proxy&url=",
+			"api": "http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.phppg/provide/vod?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -255,8 +255,8 @@
 			"key": "索尼",
 			"name": "索尼 ",
 			"type": 1,
-			"api": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/suoniapi.compg/api.phppg/providepg/vod?",
-			"playUrl": "json:http:pg/pg/127.0.0.1:10079pg/parsepg/?thread=0&proxy=proxy&url=",
+			"api": "http://127.0.0.1:10079/p/0/proxy/https://suoniapi.com/api.php/provide/vod?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -264,8 +264,8 @@
 			"key": "快帆",
 			"name": "快帆",
 			"type": 1,
-			"api": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/api.kuaifan.tvpg/api.phppg/providepg/vod?",
-			"playUrl": "json:http:pg/pg/127.0.0.1:10079pg/parsepg/?thread=0&proxy=proxy&url=",
+			"api": "http://127.0.0.1:10079/p/0/proxy/https://api.kuaifan.tv/api.php/provide/vod?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -273,8 +273,8 @@
 			"key": "量子",
 			"name": "量子",
 			"type": 1,
-			"api": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/http:pg/pg/cj.lziapi.compg/api.phppg/providepg/vodpg/?",
-			"playUrl": "json:http:pg/pg/127.0.0.1:10079pg/parsepg/?thread=0&proxy=proxy&url=",
+			"api": "http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
 			"playerType":1,
 			"searchable": 1,
 			"changeable": 1
@@ -283,8 +283,8 @@
 			"key": "非凡",
 			"name": "非凡",
 			"type": 1,
-			"api": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/http:pg/pg/cj.ffzyapi.compg/api.phppg/providepg/vodpg/?",
-			"playUrl": "json:http:pg/pg/127.0.0.1:10079pg/parsepg/?thread=0&proxy=proxy&url=",
+			"api": "http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
 			"playerType":1,
 			"searchable": 1,
 			"changeable": 1,
@@ -351,14 +351,14 @@
 			"api": "csp_Duanju",
 			"searchable": 0,
 			"changeable": 1,
-			"ext":"https:pg/pg/www.duanjutv.icu"
+			"ext":"https://www.duanjutv.icu"
 		},
 		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./pg/lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"./pg/js/alist.json"},
 		{
 			"key":"MV_vod",
 			"name":"电视┃MTV",
 			"type":1,
-			"api": "https:pg/pg/mv.wogg.linkpg/mvpg/vod",
+			"api": "https://mv.wogg.link/mv/vod",
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0
@@ -395,34 +395,34 @@
 			"api": "csp_Market",
 			"searchable": 0,
 			"changeable": 0,
-			"ext": "https:pg/pg/fm.t4tv.hz.czpg/jsonpg/market.json"
+			"ext": "https://fm.t4tv.hz.cz/json/market.json"
 		}],
 		"lives":[
 			{
 				"name": "zouming.ipv6",
 				"type": 0,
-				"url": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/http:pg/pg/ww.zouming.compg/ipv6.txt",
-				"ua": "okhttppg/3.15",
-				"epg": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/http:pg/pg/epg.112114.xyzpg/?ch={name}&date={date}",
-				"logo": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/epg.112114.xyzpg/logopg/{name}.png"
+				"url": "http://127.0.0.1:10079/p/0/proxypg/http://ww.zouming.compg/ipv6.txt",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
 				"name": "live.ipv6",
 				"type": 0,
-				"url": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/fanmingming.compg/txt?url=https:pg/pg/live.fanmingming.compg/tvpg/m3upg/ipv6.m3u",
+				"url": "http://127.0.0.1:10079/p/0/proxy/https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
 				
-				"ua": "okhttppg/3.15",
-				"epg": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/http:pg/pg/epg.112114.xyzpg/?ch={name}&date={date}",
-				"logo": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/epg.112114.xyzpg/logopg/{name}.png"
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
 				"name": "live.ipv6.m3u",
 				"type": 0,
-				"url": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/live.fanmingming.compg/tvpg/m3upg/ipv6.m3u",
+				"url": "http://127.0.0.1:10079/p/0/proxy/https://live.fanmingming.com/tv/m3u/ipv6.m3u",
 				
-				"ua": "okhttppg/3.15",
-				"epg": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/http:pg/pg/epg.112114.xyzpg/?ch={name}&date={date}",
-				"logo": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/epg.112114.xyzpg/logopg/{name}.png"
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
 				"name": "live.ipv6.local",
