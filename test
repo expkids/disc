@@ -1,5 +1,5 @@
 {
-	"spider":"./pg/pg.jar",
+	"spider":"https://gitee.com/juanxiao/bh/raw/master/o.jar",
 	"sites":[
 		{
 			"key": "豆瓣",
