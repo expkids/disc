@@ -427,20 +427,20 @@
 			{
 				"name": "live.ipv6.local",
 				"type": 0,
-				"url": ".pg/lib/live.ipv6.txt",
+				"url": "./pg/lib/live.ipv6.txt",
 				
-				"ua": "okhttppg/3.15",
-				"epg": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/http:pg/pg/epg.112114.xyzpg/?ch={name}&date={date}",
-				"logo": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/epg.112114.xyzpg/logopg/{name}.png"
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
 				"name": "live.fan",
 				"type": 0,
-				"url": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/raw.githubusercontent.compg/dxawipg/0pg/mainpg/tvlive.txt",
+				"url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
 				
-				"ua": "okhttppg/3.15",
-				"epg": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/http:pg/pg/epg.112114.xyzpg/?ch={name}&date={date}",
-				"logo": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/epg.112114.xyzpg/logopg/{name}.png"
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
 				"name": "YTLive",
@@ -452,9 +452,9 @@
 				"name": "直播",
 				"type": 0,
 				
-				"url": "https:pg/pg/agit.aipg/Yoursmile7pg/TVBoxpg/rawpg/branchpg/masterpg/live.txt",
-				"epg": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/epg.112114.xyzpg/?ch={name}&date={date}",
-				"logo": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/epg.112114.xyzpg/logopg/{name}.png"
+				"url": "https://agit.aipg/Yoursmile7/TVBox/raw/branch/master/live.txt",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
 				"name": "TXT",
