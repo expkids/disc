@@ -51,20 +51,20 @@
 			"name": "天天┃App",
 			"type": 3,
 			"api": "csp_TTian",
-			"ext": "http:pg/op.ysdqjs.cn$$$null$$$1"
+			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		},
 		{
 			"key": "追剧",
 			"name": "追剧┃App",
 			"type": 3,
 			"api": "csp_TTian",
-			"ext": "http:pg/app.kzjtv.com$$$null$$$1"
+			"ext": "http://app.kzjtv.com$$$null$$$1"
 		},
 		{
 			"key": "黑木耳",
 			"name": "黑木耳",
 			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/null/https:json.heimuer.xyzpg/api.php/provide/vod/",
+			"api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyzpg/api.php/provide/vod/",
 			"searchable": 1,
 			"quickSearch": 1
 		},
