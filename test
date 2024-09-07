@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/fan.txt;md5;7ed5abc49f8cae4eb3d868018636104b",
+	"spider":"./pg/jar/pg.nogo.jar;md5;b9c85bbec1309640dd6c0347bb82d099",
 	"sites":[
 		{
 			"key": "豆瓣",
