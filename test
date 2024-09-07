@@ -460,28 +460,28 @@
 				"name": "TXT",
 				"type": 0,
 				
-				"url": "http:pg/pg/home.jundie.top:81pg/Catpg/tvpg/live.txt",
-				"epg": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/epg.112114.xyzpg/?ch={name}&date={date}",
-				"logo": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/epg.112114.xyzpg/logopg/{name}.png",
-				"ua": "Mozillapg/5.0 (Windows NT 10.0; Win64; x64) AppleWebKitpg/537.36 (KHTML, like Gecko) Chromepg/108.0.0.0 Safaripg/537.36"
+				"url": "http://home.jundie.top:81/Cat/tv/live.txt",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
 			},
 			{
 				"name": "Json",
 				"type": 1,
 				
-				"url": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/raw.githubusercontent.compg/FongMipg/CatVodSpiderpg/mainpg/jsonpg/live.json",
-				"epg": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/epg.112114.xyzpg/?ch={name}&date={date}",
-				"logo": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/epg.112114.xyzpg/logopg/{name}.png",
-				"ua": "Mozillapg/5.0 (Windows NT 10.0; Win64; x64) AppleWebKitpg/537.36 (KHTML, like Gecko) Chromepg/108.0.0.0 Safaripg/537.36"
+				"url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
 			},
 			{
 				"name": "live.feimao",
 				"type": 0,
 				
-				"url": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/http:pg/pg/我不是.肥猫.livepg/TVpg/tvzb.txt",
-				"ua": "okhttppg/3.12.13",
-				"epg": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/epg.112114.xyzpg/?ch={name}&date={date}",
-				"logo": "http:pg/pg/127.0.0.1:10079pg/ppg/0pg/proxypg/https:pg/pg/epg.112114.xyzpg/logopg/{name}.png"
+				"url": "http://127.0.0.1:10079/p/0/proxy/http://我不是.肥猫.live/TV/tvzb.txt",
+				"ua": "okhttp/3.12.13",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
 				"group":"redirect",
@@ -489,7 +489,7 @@
 					{
 						"name":"redirect",
 						"urls":[
-							"proxy:pg/pg/do=live&type=live&proxy=&url="
+							"proxy://do=live&type=live&proxy=&url="
 						]
 					}
 				]
@@ -498,7 +498,7 @@
 		"doh": [
 			{
 				"name": "Google",
-				"url": "https:pg/pg/dns.googlepg/dns-query",
+				"url": "https://dns.google/dns-query",
 				"ips": [
 					"8.8.4.4",
 					"8.8.8.8"
@@ -506,7 +506,7 @@
 			},
 			{
 				"name": "Cloudflare",
-				"url": "https:pg/pg/cloudflare-dns.compg/dns-query",
+				"url": "https://cloudflare-dns.com/dns-query",
 				"ips": [
 					"1.1.1.1",
 					"1.0.0.1",
@@ -516,7 +516,7 @@
 			},
 			{
 				"name": "AdGuard",
-				"url": "https:pg/pg/dns.adguard.compg/dns-query",
+				"url": "https://dns.adguard.com/dns-query",
 				"ips": [
 					"94.140.14.140",
 					"94.140.14.141"
@@ -524,7 +524,7 @@
 			},
 			{
 				"name": "DNSWatch",
-				"url": "https:pg/pg/resolver2.dns.watchpg/dns-query",
+				"url": "https://resolver2.dns.watch/dns-query",
 				"ips": [
 					"84.200.69.80",
 					"84.200.70.40"
@@ -532,7 +532,7 @@
 			},
 			{
 				"name": "Quad9",
-				"url": "https:pg/pg/dns.quad9.netpg/dns-quer",
+				"url": "https://dns.quad9.net/dns-quer",
 				"ips": [
 					"9.9.9.9",
 					"149.112.112.112"
@@ -560,14 +560,14 @@
 					".*ulivetv.*"
 				]
 			},
-			{"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","pg/itempg/videopg/"],"filter":[]},
+			{"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
 			{"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="],"filter":[]},
-			{"host":"www.sharenice.net","rule":["douyin.com","pg/playpg/"]},
+			{"host":"www.sharenice.net","rule":["douyin.com","/play/"]},
 			{"host":"m.ysxs8.vip","rule":["ysting.ysxs8.vip:81","xmcdn.com"],"filter":[]},
-			{"host":"hdmoli.com","rule":[".m3u8"]},{"host":"https:pg/pg/api.live.bilibili.com","rule":["bilivideo.com","pg/index.m3u8"],"filter":["data.bilibili.compg/logpg/web","i0.hdslb.compg/bfspg/livepg/"]},
-			{"host":"www.agemys.cc","rule":["cdn-tos","objpg/tos-cn"]},
-			{"host":"www.fun4k.com","rule":["https:pg/pg/hd.ijycnd.compg/play","index.m3u8"]},
-			{"host":"zjmiao.com","rule":["play.videomiao.vippg/API.php","time=","key=","path="]},
+			{"host":"hdmoli.com","rule":[".m3u8"]},{"host":"https://api.live.bilibili.com","rule":["bilivideo.com","/index.m3u8"],"filter":["data.bilibili.com/log/web","i0.hdslb.com/bfs/live/"]},
+			{"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
+			{"host":"www.fun4k.com","rule":["https://hd.ijycnd.com/play","index.m3u8"]},
+			{"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]},
 			{
 				"name": "火山嗅探",
 				"hosts": [
@@ -592,7 +592,7 @@
 					"toutiaovod.com"
 				],
 				"regex": [
-					"videopg/tospg/cn"
+					"video/tos/cn"
 				]
 			},
 			{
@@ -641,6 +641,6 @@
 		"parses": [
 		],
 		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
-		"wallpaper": "http:pg/pg/饭太硬.toppg/深色壁纸pg/api.php",
-		"disabled_wallpaper":"http:pg/pg/www.kf666888.cnpg/apipg/tvboxpg/img"
+		"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
