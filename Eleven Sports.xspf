@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>acestream://36cad67fed5a739757a9db844a551aa845a8d51b</location>
+			<title>Eleven Sports 1 [BE]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>acestream://
+		<track>
+			<location>acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce</location>
+			<title>Eleven Sports 2 [BE]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e</location>
+			<title>Eleven Sports 3 [BE]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://0f32c0131a2d9444996410801f4e18b04384db98</location>
+			<title>Eleven Sports 4 [BE]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a</location>
+			<title>Eleven Sports 5 [BE]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80</location>
+			<title>Eleven Sports 6 [BE]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00</location>
+			<title>Eleven Sports 1 HD [PL]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9</location>
+			<title>Eleven Sports 2 HD [PL]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212</location>
+			<title>Eleven Sports 3 HD [PL]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09</location>
+			<title>Eleven Sports 4 HD [PL]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652</location>
+			<title>Eleven Sports 1 4k [PL]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+	</extension>
+</playlist>

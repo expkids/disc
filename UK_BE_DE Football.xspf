@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>acestream://8dbe2d515e9131fa311353537736f8c94be9b26d</location>
+			<title>[UK] SKY SPORTS FOOTBALL 1080</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e</location>
+			<title>[UK] SKY SPORTS PREMIER LEAGUE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c</location>
+			<title>[UK] SKY SPORTS ARENA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e</location>
+			<title>[UK] SKY SPORTS MAİN EVENT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://5399635df4868f2502e715baaa97ef57c000b869</location>
+			<title>[UK] Sky Sport 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://a51eefe65e13cbbb9422296fe46946d8f454c5e7</location>
+			<title>[UK] Sky Sport 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b</location>
+			<title>[UK] BT SPORT 1 FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801</location>
+			<title>[UK] BT SPORT 2 FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>				
+			</extension>
+		</track>
+		<track>
+			<location>acestream://5f966c123759de46dff29c379266b7a403452033</location>
+			<title>[UK] BT SPORT 3 FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://fc5089d8e1519872fdf951779ccbca913acc9bce</location>
+			<title>[UK] BT Sport / ESPN</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565</location>
+			<title>[UK] PREMIER SPORTS 1 </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://4903ca695edb64bc72ae29eb85a5333ba0139537</location>
+			<title>[UK] PREMIER SPORTS 2 </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+
+		<track>
+			<location>acestream://4b4907de51ec11087d4bed5876f2a0c68264f442/</location>
+			<title>[US] ESPN HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://664eb5fe460b96941aed633959a845b185cd8394</location>
+			<title>[US] ESPN2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://36cad67fed5a739757a9db844a551aa845a8d51b</location>
+			<title>[BE] ELEVEN SPORTS 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce</location>
+			<title>[BE] ELEVEN SPORTS 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e</location>
+			<title>[BE] ELEVEN SPORTS 3 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://0f32c0131a2d9444996410801f4e18b04384db98</location>
+			<title>[BE] ELEVEN SPORTS 4 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a</location>
+			<title>[BE] ELEVEN SPORTS 5 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>		
+		<track>
+			<location>acestream://897e73c9d578848f596585314ecb9ae067c0e229</location>
+			<title>[DE] DAZN 1 BAR HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865</location>
+			<title>[DE] DAZN 2 BAR HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+	</extension>
+</playlist>

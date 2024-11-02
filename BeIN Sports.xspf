@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0</location>
+			<title>BeIN Sports 1 [BE]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://edb507e38394d614c9ff55805c9d354ae13210bc</location>
+			<title>BeIN Sports 2 [BE]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8</location>
+			<title>BeIN Sports 3 [BE]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://47c1b3a68d03bd190fed521d144ad08fa0f195f3</location>
+			<title>beIN SPORTS HABER [TR]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://118416583faa3fb4f03800173429b6b844b43a52</location>
+			<title>beIN SPORTS HD 1 [TR]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05</location>
+			<title>beIN SPORTS HD 2 [TR]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://ed81c333815247536edfcdb2755147e8c4144d62</location>
+			<title>beIN SPORTS HD 3 [TR]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d</location>
+			<title>beIN SPORTS HD 4 [TR]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>network-caching=3000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+	</extension>
+</playlist>
